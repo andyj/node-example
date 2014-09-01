@@ -1,0 +1,11 @@
+{
+  "name": "hello-world-sessions",
+  "description": "hello world test app for sessions",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "4.x",
+    "express-session": "*",
+    "connect-mongo" : "*"
+  }
+}
